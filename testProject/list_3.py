@@ -1,4 +1,4 @@
-fin = open('C:/Users/User/Downloads/words.txt')
+fin = open('C:/Users/Aleksandr/Downloads/words.txt')
 word_list = []
 for line in fin:
     word = line.strip()
