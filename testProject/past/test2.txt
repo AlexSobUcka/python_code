@@ -1,0 +1,6 @@
+test
+new line
+test
+22
+*--
+000
