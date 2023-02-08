@@ -4,36 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="206979c8-ec9b-4d2c-8614-a6f79a943981" name="Changes" comment="add dict_ files">
-      <change afterPath="$PROJECT_DIR$/testProject/past/appt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProject/past/file_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProject/past/items2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProject/past/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProject/past/test2.txt" afterDir="false" />
+    <list default="true" id="206979c8-ec9b-4d2c-8614-a6f79a943981" name="Changes" comment="new folder (past) and 14-16 lessons">
+      <change afterPath="$PROJECT_DIR$/bulls_cows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulls_cows2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulls_cows3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProject/XML/model.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testProject/XML/xml_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/appt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/class_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/cartalk1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/cartalk1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/dict_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/dict_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/dict_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/dict_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/ferma_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/ferma_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/func_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/func_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/func_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/func_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/func_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/func_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/items2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/class_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/list_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/list_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/list_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/list_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/list_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/list_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/power_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/pyvenv.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/sample.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/sample.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/time_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/time_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/tuple_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/tuple_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/turtle_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/turtle_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testProject/words_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testProject/past/words_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -63,19 +49,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/testProject" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandr\Documents\GitHub\python_code" />
       <recent name="C:\Users\Aleksandr\Documents\GitHub\python_code\testProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandr\Documents\GitHub\python_code\testProject\XML" />
       <recent name="C:\Users\Aleksandr\Documents\GitHub\python_code\testProject\past" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.class_2">
-    <configuration name="class_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bulls_cows">
+    <configuration name="bulls_cows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testProject/class_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bulls_cows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bulls_cows2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testProject/class_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bulls_cows2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bulls_cows3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aleksandr\Documents\GitHub\python_code\testProject\past\dict_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bulls_cows3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="profi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aleksandr\Documents\GitHub\python_code\testProject\past\dict_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/profi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="xml_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProject/XML" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aleksandr\Documents\GitHub\python_code\testProject\past\file_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testProject/XML/xml_parser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.class_2" />
-        <item itemvalue="Python.class_1" />
-        <item itemvalue="Python.file_1" />
-        <item itemvalue="Python.dict_2" />
-        <item itemvalue="Python.dict_1" />
+        <item itemvalue="Python.bulls_cows" />
+        <item itemvalue="Python.bulls_cows3" />
+        <item itemvalue="Python.bulls_cows2" />
+        <item itemvalue="Python.xml_parser" />
+        <item itemvalue="Python.profi" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662475308692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new folder (past) and 14-16 lessons">
+      <created>1667732191081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667732191081</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new folder (past) and 14-16 lessons">
+      <created>1667732271441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667732271441</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change file's directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change file's directory" />
+    <MESSAGE value="new folder (past) and 14-16 lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="new folder (past) and 14-16 lessons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
