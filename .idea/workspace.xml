@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="206979c8-ec9b-4d2c-8614-a6f79a943981" name="Changes" comment="new folder (past) and 14-16 lessons">
-      <change afterPath="$PROJECT_DIR$/bulls_cows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bulls_cows2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bulls_cows3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProject/XML/model.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProject/XML/xml_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,12 +48,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Aleksandr\Documents\GitHub\python_code" />
@@ -64,7 +66,7 @@
       <recent name="C:\Users\Aleksandr\Documents\GitHub\python_code\testProject\past" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bulls_cows">
+  <component name="RunManager" selected="Python.line_break">
     <configuration name="bulls_cows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,19 +130,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="profi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="line_break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\spopo\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/profi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/line_break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,13 +173,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.bulls_cows" />
+      <item itemvalue="Python.bulls_cows2" />
+      <item itemvalue="Python.bulls_cows3" />
+      <item itemvalue="Python.line_break" />
+      <item itemvalue="Python.xml_parser" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.line_break" />
         <item itemvalue="Python.bulls_cows" />
         <item itemvalue="Python.bulls_cows3" />
         <item itemvalue="Python.bulls_cows2" />
         <item itemvalue="Python.xml_parser" />
-        <item itemvalue="Python.profi" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +233,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change file's directory" />
