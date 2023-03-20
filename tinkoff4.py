@@ -1,17 +1,30 @@
-def max_list(list_val, count, total):
-    if count >= total:
-        return list_val
+def profit_list(list_val):
+    temp_lst = []
+    for value in list_val:
+        for i in range(len(value)):
+            profit = (9 - int(value[i])) * 10**(len(value)-1 - i)
+            temp_lst.append(profit)
+
+    temp_lst.sort(reverse=True)
+    return temp_lst
+
+
+def count_profit(list_val, count):
+    sum = 0
+    if len(list_val) > count:
+        i = 0
+        while i < count:
+            sum += list_val[i]
+            i += 1
     else:
-        list_val.sort(reverse=True)
-        temp_lst = []
         for i in list_val:
-            if len(i) >= len(list_val[count-1]):
-                print(i)
-            else:
-                pass
+            sum += i
+
+    return sum
 
 
 n, k = list(map(int, input().split()))
 lst = list(input().split())
-print(max_list(lst, k, n))
-
+profit_list = profit_list(lst)
+profit = count_profit(profit_list, k)
+print(profit)
