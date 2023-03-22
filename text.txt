@@ -1,0 +1,7 @@
+The joint angles to realize the verification set were
+calculated based on the calibrated model, and they were
+positioned by a robot controller. Note that, this calculation of
+inverse kinematics is not solved analytically, so it should be
+numerically solved, since the adjacent joint axes in the
+calibrated model are no longer accurately parallel or
+perpendicular to each other.
